@@ -4,7 +4,6 @@ Red
 Blue
 Orange
 Yellow
-Voilet
 Green
 Pink
 Bluish Green
